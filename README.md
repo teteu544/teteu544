@@ -4,7 +4,7 @@
 
 - 🔭 Estou trabalhando hoje na Ambev SA
 - 🌱 Estou aprendendo Java
-- 📫 Para me achar me encontre no linkedin : https://www.linkedin.com/in/matheus-lopes-8774041b2/
+- 📫 Para entrar em contato : mkteteu15@gmail.com
 - Certificado Udemy : https://www.udemy.com/certificate/UC-c1262571-fa92-47ae-ae02-d25047126284/
 -->
 
