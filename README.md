@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Trabalho hoje na Ambev S.A
+- 🔭 Trabalhei na Ambev S.A
 - 🌱 Treinando Java
 - 📫 Para entrar em contato : mkteteu15@gmail.com
 - Certificado Udemy : https://www.udemy.com/certificate/UC-c1262571-fa92-47ae-ae02-d25047126284/
